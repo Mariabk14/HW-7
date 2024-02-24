@@ -1,3 +1,4 @@
-ul>p{
-    margin-right: 24px;
-}
+
+a[href^="https://"] {
+    color: red;
+  } 
